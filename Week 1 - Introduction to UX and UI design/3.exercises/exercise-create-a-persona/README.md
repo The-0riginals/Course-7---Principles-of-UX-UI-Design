@@ -42,5 +42,5 @@ In the final step, you will attempt to understand your persona's pain points. Wh
 
 ## My Solution
 
-<img src="my-future-gf-persona.png" width=80%>
+<img src="my-ux-future-gf-persona.png" width=80%>
 
