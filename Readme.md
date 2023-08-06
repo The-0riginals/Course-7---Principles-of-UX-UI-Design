@@ -6,6 +6,8 @@
 
 
  - Describe the fundamentals of User Experience (UX) design and research
+ 
+ - persona, personal journey,... 
 
  - Describe accessibility considerations in design 
 
