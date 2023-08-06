@@ -1,6 +1,6 @@
 # This is course is about Principles of UX/UI Design from Coursera
 
- https://www.coursera.org/learn/principles-of-ux-ui-design?specialization=meta-front-end-developer
+[Principles of ux ui design](https://www.coursera.org/learn/principles-of-ux-ui-design?specialization=meta-front-end-developer)
 
 # Thing can be learned from this course
 
